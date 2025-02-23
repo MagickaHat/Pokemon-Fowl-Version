@@ -1,0 +1,8 @@
+Name       = [FRLG] Summary Screen
+Version    = 3.0
+Essentials = 21.1
+Requires   = Modular UI Scenes, 2.0.4
+Optional   = [MUI] Enhanced Pokemon UI, 1.0.4
+Optional   = [DBK] Terastallization, 1.0.7
+Optional   = [DBK] Dynamax, 1.0.2
+Credits    = Shashu-Greninja, Pnick0509, Superjustinbros
